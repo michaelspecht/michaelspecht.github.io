@@ -6,7 +6,7 @@
 build/
 DerivedData/
 .DS_Store
-
+_site/
 
 ## Various settings
 *.pbxuser
