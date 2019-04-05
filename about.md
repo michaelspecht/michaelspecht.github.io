@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm in charge of mobile development at [ADESA](https://www.adesa.com/about-us/), mostly working on enterprise apps used by employees. I’m a cofounder of [Mail+](www.mailplusapp.com), which was one of the top 5 business apps in the App Store from 2011 to 2015. 
 
-### More Information
+*### Contact me*
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[15450970+michaelspecht@users.noreply.github.com](_mailto:15450970+michaelspecht@users.noreply.github.com_)
